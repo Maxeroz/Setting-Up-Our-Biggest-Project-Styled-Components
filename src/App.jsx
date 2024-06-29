@@ -38,3 +38,4 @@ function App() {
 export default App;
 
 // What is Supabase
+// Creating a New Database
