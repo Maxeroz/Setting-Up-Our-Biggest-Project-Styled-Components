@@ -40,3 +40,4 @@ export default App;
 // What is Supabase
 // Creating a New Database
 // Modeling Application State
+// Creating Tables
