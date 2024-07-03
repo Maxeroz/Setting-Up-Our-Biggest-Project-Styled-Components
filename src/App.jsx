@@ -42,3 +42,4 @@ export default App;
 // Modeling Application State
 // Creating Tables
 // Relationships Between Tables
+// Adding Security Policies (RLS)
