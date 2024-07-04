@@ -44,3 +44,4 @@ export default App;
 // Relationships Between Tables
 // Adding Security Policies (RLS)
 // React Query Start Section
+// What is React Query?
