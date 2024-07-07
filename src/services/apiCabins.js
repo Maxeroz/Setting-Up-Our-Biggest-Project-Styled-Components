@@ -19,5 +19,5 @@ export async function deleteCabin(id) {
     throw new Error("Cabin could not be deleted");
   }
 
-  return data;
+  // return data;
 }
