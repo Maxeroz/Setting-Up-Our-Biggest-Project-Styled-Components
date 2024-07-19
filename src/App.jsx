@@ -79,3 +79,4 @@ export default App;
 // An Overview of Reusability in React
 // Setting Up an Example
 // Render Props Pattern
+// A Look at Higher-Order Components (HOC)
