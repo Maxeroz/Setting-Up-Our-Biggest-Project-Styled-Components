@@ -75,3 +75,4 @@ export default App;
 // Adding Security Policies (RLS)
 // React Query Start Section
 // What is React Query?
+// Advanced React Patterns
