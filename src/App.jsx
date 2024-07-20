@@ -80,3 +80,4 @@ export default App;
 // Setting Up an Example
 // Render Props Pattern
 // A Look at Higher-Order Components (HOC)
+// The Compound Component Pattern
