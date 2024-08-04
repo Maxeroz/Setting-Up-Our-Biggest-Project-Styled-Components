@@ -46,7 +46,9 @@ async function createBookings() {
     .from("guests")
     .select("id")
     .order("id");
+
   const allGuestIds = guestsIds.map((cabin) => cabin.id);
+
   const { data: cabinsIds } = await supabase
     .from("cabins")
     .select("id")
