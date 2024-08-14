@@ -34,6 +34,7 @@ function Login() {
         <Spinner />
       </FullPage>
     );
+
   if (isAuthenticated) navigate("/");
 
   return (
