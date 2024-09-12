@@ -95,3 +95,4 @@ export default App;
 // Render Props Pattern
 // A Look at Higher-Order Components (HOC)
 // The Compound Component Pattern
+// Deploying to Vercel
