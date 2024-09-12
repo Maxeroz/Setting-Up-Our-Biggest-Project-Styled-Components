@@ -96,3 +96,4 @@ export default App;
 // A Look at Higher-Order Components (HOC)
 // The Compound Component Pattern
 // Deploying to Vercel
+// An Overview of Server-Side Rendering (SSR)
